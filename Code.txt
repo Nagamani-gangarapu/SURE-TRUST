@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MYNTRA WEBSITE</title>
+        <style>
+            div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.right {
+  margin: auto;
+  width: 70%;
+  
+  padding: 50px;
+}
+body {
+  background-image: url('http://images.designtrends.com/wp-content/uploads/2015/11/17061911/White-Abstract-Plain-Background.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+        </style>
+    </head>
+    <body>
+        <h1 class="h1" >MYNTRA WEBSITE</h1>
+        <p >click on the myntra logo to visit the myntra website</p>
+        <a href="https://www.myntra.com/?utm_source=perf_bing_traffic&utm_medium=perf_bing_traffic&utm_campaign=Bing_Google%20DSA-%20Searchterms-%20Test-%20EX&utm_source=bing" target="_blank"><img src="https://cdn3.desidime.com/topics/photos/1001307/small/logo_myntra1536821294.png?1555051757 width=300 height=300"></a>
+        </body>
+</html>
